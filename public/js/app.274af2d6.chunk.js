@@ -1,0 +1,2 @@
+var app=(window.webpackJsonp_name_=window.webpackJsonp_name_||[]).push([[0],[function(o,n,e){o.exports=e(3)},function(o,n,e){},,function(o,n,e){"use strict";e.r(n);e(1),Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));n.default=function(){return console.log("pota")};"serviceWorker"in navigator&&navigator.serviceWorker.ready.then(function(o){o.unregister()})}],[[0,1]]]).default;
+//# sourceMappingURL=app.274af2d6.chunk.js.map

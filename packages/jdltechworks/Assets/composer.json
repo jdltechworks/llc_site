@@ -1,0 +1,13 @@
+{
+    "name": "jdltechworks/assets",
+    "description": "laravel assets",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jdltechworks",
+            "email": "jdltechworks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
